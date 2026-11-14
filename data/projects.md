@@ -1,1 +1,0 @@
-- optflow [no-mistakes-prod-only] - Generative optimisation with TRELLIS.2 backend (added 2026-11-14)
